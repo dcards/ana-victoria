@@ -14,7 +14,7 @@
     }
   ],
   "start_url": "https://dcards.github.io/ana-victoria/?utm_source=pwa",
-  "background_color": "#2da6ff",
+  "background_color": "#ffffff",
   "display": "standalone",
   "theme_color": "#2c2c2c"
 }
